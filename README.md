@@ -1,45 +1,38 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+<img src="/assets/images/RJL-Profile-picture.jpg" style="margin: 0;">
 
-Welcome USER_NAME,
+# [My first Google Map API example](https://tubaman48.github.io/my-first-google-map-api)
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+### Technologies Used
 
-## Gitpod Reminders
+##### 1. Languages
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+> ![Image](/assets/images/logos/html5-50_groo6o.png)   [HTML5](https://en.wikipedia.org/wiki/HTML5).
+>
+> ![Image](/assets/images/logos/CSS3-50_slrv0x.png)    [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets).
+>
+> ![Image](/assets/images/logos/js50_fcj8kt.png) [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
-`python3 -m http.server`
+##### 2. Integrations
 
-A blue button should appear to click: *Make Public*,
+> ![Image](/assets/images/logos/Bootstrap-50_khpj57.png)   [Bootstrap](https://getbootstrap.com/) - by linking via [BootstrapCDN](https://www.bootstrapcdn.com/) to HTML Doc.
+>
+> ![Image](/assets/images/logos/GoogleFonts-50_mx57p6.png) [Google Fonts](https://fonts.google.com/) - Overall Typography import.
+>
+> ![Image](/assets/images/logos/GoogleMapsAPI.png) [Google Map API](https://developers.google.com/maps/apis-by-platform/) - developers API platform.
 
-Another blue button should appear to click: *Open Browser*.
+##### 3. Workspace, version control and Repository storage
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+> ![Image](/assets/images/logos/gitpod-50_qaxo1q.png)  [GitPod](https://github.com/mkuti/corklagos-venture/blob/master/gitpod.io) - Main workspace IDE (Integrated Development Environment)
+>
+> ![Image](/assets/images/logos/git-50_znskan.png) [Git](https://git-scm.com/) - Distributed Version Control tool to store versions of files and track changes.
+>
+> ![Image](/assets/images/logos/github-50_ixwpch.png)  [GitHub](https://github.com/) - A cloud-based hosting service to manage my **Git** repositories.
 
-A blue button should appear to click: *Make Public*,
+### Version history:
 
-Another blue button should appear to click: *Open Browser*.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
+> **29th January 2021:** 
+> - Adapted from CI LMS Google Map API section to reference some local rehearsal venues that I use (when allowed !)
+> - API Key secured to this repository
 --------
 
-Happy coding!
+R.J.Lovett (tubaman48) - January 2021

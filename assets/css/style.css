@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+/*--------------------------------------------Colors*/
+
+.bg-color-conferences {
+    background-color: #f4f4f4;
+}
+
+body {
+    font-family: Roboto, sans-serif;
+    font-weight: 300;
+    background-color: #525252;
+    color: #fafafa;
+}
+
+/*--------------------------------------------Footer*/
+
+footer {
+    background-color: #525252;
+    color: #fafafa;
+    min-height: 120px;
+    margin: 0;
+}
+
+/*--------------------------------------------Map*/
+div#map {
+    min-height: 360px;
+}
+
+/*--------------------------------------------Media Queries*/
